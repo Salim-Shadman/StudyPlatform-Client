@@ -7,6 +7,8 @@ This is the client-side code for the StudyPlatform project, built with React and
 ## 🔗 Live Site URL
 
 **Live Site:** `https://ph-assignment-12-ameo.web.app`
+**Admin email:** admin@gmail.com
+**Admin pass:** admin123
 
 ---
 
